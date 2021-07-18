@@ -20,6 +20,17 @@ allprojects {
 ```
 dependencies {
     ...
-    implementation 'com.github.Muraveiko:FirstAndroidLib:-SNAPSHOT'
+    implementation 'com.github.Muraveiko:FirstAndroidLib:0.0.1'
 }
 ```
+
+## First you need to
+Android project with the library module
+
+## Tag version
+https://stackoverflow.com/questions/18216991/create-a-tag-in-a-github-repository
+
+## Before implementing the library
+Go to the jitpack website and click on the Get it button
+
+## Enjoy
